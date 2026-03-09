@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Harith! 👋
 
-<!--
-**TheBeg1nner/TheBeg1nner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Cybersecurity Intern | 🤖 ML Enthusiast | 🎓 USIM Final Year Student
 
-Here are some ideas to get you started:
+I'm a passionate Information Security student currently interning at **NetbyteSEC**. I love exploring the intersection of AI and security, specifically how machine learning can be used to solve real-world safety challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Current Focus
+* **Final Year Project:** Developing a secured anti-drone system using **YOLOv8** and machine learning.
+* **Internship:** Learning the ropes of professional security testing at NetbyteSEC.
+* **Skills:** Kali Linux, Python, Digital Forensics, and Penetration Testing.
+
+### 🛠️ My Tech Stack
+* **Languages:** Python, C++, Java, Bash
+* **Tools:** YOLOv8, Kali Linux, Autopsy, GitHub Copilot
+* **Interests:** Digital Forensics, Risk Management, Wireless Security
+
+---
+
+### 📫 Reach Me
+* **LinkedIn:** [Your Link Here]
+* **Portfolio:** [Your Domain from GitHub Student Pack Here]
