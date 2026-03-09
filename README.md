@@ -2,13 +2,13 @@
 
 ### 🛡️ Cybersecurity Intern @ NetbyteSEC | 🤖 ML Enthusiast | 🎓 USIM Student
 
-I am a Final Year Computer Science student at **Universiti Sains Islam Malaysia (USIM)** specializing in **Information Security and Assurance**. I am passionate about the intersection of AI and security, currently focused on developing intelligent defense systems.
+I am a Final Year Computer Science student at **Universiti Sains Islam Malaysia (USIM)**, pursuing a Bachelor of Computer Science with Honours in **Information Security and Assurance**. I am passionate about the intersection of AI and security, specifically developing intelligent defense systems through machine learning.
 
 ---
 
 ### 🚀 Current Focus
 * **Final Year Project:** Building a secured anti-drone system using **YOLOv8** for real-time detection and machine learning.
-* **Internship:** Gaining hands-on experience in penetration testing and digital forensics at **NetbyteSEC**.
+* **Internship:** Gaining hands-on experience in penetration testing and digital forensics as an intern at **NetbyteSEC** in Nilai.
 * **Wargames:** Successfully completed **OverTheWire: Bandit** levels 0 through 33.
 
 ### 🛠️ Tech Stack & Tools
