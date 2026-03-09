@@ -2,13 +2,13 @@
 
 ### 🛡️ Cybersecurity Intern @ NetbyteSEC | 🤖 ML Enthusiast | 🎓 USIM Student
 
-I am a Final Year Computer Science student at **Universiti Sains Islam Malaysia (USIM)**, pursuing a Bachelor of Computer Science with Honours in **Information Security and Assurance**. I am passionate about the intersection of AI and security, specifically developing intelligent defense systems through machine learning.
+I am a Final Year Computer Science student at **Universiti Sains Islam Malaysia (USIM)**, pursuing a Bachelor of Computer Science with Honours in **Information Security and Assurance**. I’m currently exploring the intersection of AI and security through my drone detection work.
 
 ---
 
 ### 🚀 Current Focus
-* **Final Year Project:** Building a secured anti-drone system using **YOLOv8** for real-time detection and machine learning.
-* **Internship:** Gaining hands-on experience in penetration testing and digital forensics as an intern at **NetbyteSEC** in Nilai.
+* **Final Year Project:** Building a secured anti-drone system using **YOLOv8** for real-time detection.
+* **Internship:** Gaining hands-on experience in penetration testing and digital forensics at **NetbyteSEC** in Nilai.
 * **Wargames:** Successfully completed **OverTheWire: Bandit** levels 0 through 33.
 
 ### 🛠️ Tech Stack & Tools
@@ -21,11 +21,9 @@ I am a Final Year Computer Science student at **Universiti Sains Islam Malaysia 
 ---
 
 ### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheBeg1nner&show_icons=true&theme=tokyonight&hide_border=true" alt="Harith's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBeg1nner&layout=compact&theme=tokyonight&hide_border=true" alt="Harith's Top Languages" />
-</p>
+![Harith's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBeg1nner&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Harith's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBeg1nner&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
