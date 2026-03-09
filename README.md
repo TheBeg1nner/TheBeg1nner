@@ -2,7 +2,7 @@
 
 ### 🛡️ Cybersecurity Intern @ NetbyteSEC | 🤖 ML Enthusiast | 🎓 USIM Student
 
-I am a Final Year Computer Science student at **Universiti Sains Islam Malaysia (USIM)**, pursuing a Bachelor of Computer Science with Honours in **Information Security and Assurance**. I’m currently exploring the intersection of AI and security through my drone detection work.
+I am a Final Year Computer Science student at **Universiti Sains Islam Malaysia (USIM)**, pursuing a Bachelor of Computer Science with Honours in **Information Security and Assurance**. I'm exploring the intersection of AI and security through my drone detection work.
 
 ---
 
@@ -21,9 +21,9 @@ I am a Final Year Computer Science student at **Universiti Sains Islam Malaysia 
 ---
 
 ### 📊 My GitHub Stats
-![Harith's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBeg1nner&show_icons=true&theme=tokyonight&hide_border=true)
+![Harith's Stats](https://github-readme-stats.vercel.app/api?username=TheBeg1nner&show_icons=true&theme=tokyonight&hide_border=true&v=1)
 
-![Harith's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBeg1nner&layout=compact&theme=tokyonight&hide_border=true)
+![Harith's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBeg1nner&layout=compact&theme=tokyonight&hide_border=true&v=1)
 
 ---
 
